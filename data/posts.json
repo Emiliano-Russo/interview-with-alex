@@ -1,0 +1,462 @@
+{
+  "source": "Real LinkedIn posts from founders and operators on Flywheel's inspiration watchlist (B2B SaaS, AI, GTM). Reposts and roundup/list posts removed.",
+  "note": "Engagement was captured at collection time. No follower, impression or publish-date data is available.",
+  "posts": [
+    {
+      "id": "p001",
+      "author": "Dylan Babbs",
+      "text": "It was a pleasure returning to South Park Commons NYC, right where Profound started, to talk about our story, particularly how design plays such an important part! Great conversation with Soleio.\n\nPart 2 of my interview with First of Kind, this time from the Profound office, comes Thursday.\n\nFull episode:\nYouTube: https://lnkd.in/ewwtHsB8\nX: https://lnkd.in/ef4ysZHp",
+      "likes": 46,
+      "comments": 2,
+      "shares": 1
+    },
+    {
+      "id": "p002",
+      "author": "Alfred Wahlforss",
+      "text": "Every startup needs a 3D printer.\n\n\nWe got one for the Listen Labs office for the AGI hackathon. Then the team started building things with it for fun.\n\nShalin has printed a doorstop and kudos tokens for the team.\n\nAt our Hawaii hackathon, Hugo, Krish and Ole connected it to our CRM. Every time a rep closes a deal, it prints that customer’s logo for them.\n\nSomeone even printed a model of Florian’s head.\n\nBut my favorite is Listen Instant.\n\nA few months ago, we started bringing a chef into the office to cook lunch and dinner for the team. Every day, Lisa our office manager, sent out a poll in Slack to ask how the food was.\n\nAlmost nobody answered. People had opinions on meals, but most of the team was too busy to stop and submit a review.\n\nSo one evening Hugo and Maddie decided to change that.\n\nThey designed and 3D-printed a small box with face buttons (from 😀 to 😞) and put it on the lunch table. After eating, people hit a button on their way out.\n\nIt takes one second, and now the lunch ratings come in every day.\n\nThis is one of the many things I love about the team at Listen. People here notice something that could work better and, instead of waiting for permission, they just go fix it.",
+      "likes": 65,
+      "comments": 5,
+      "shares": 0
+    },
+    {
+      "id": "p003",
+      "author": "Aaron Levie",
+      "text": "Agents are going to work with enterprise files 100X more than people do today. This is why we're excited to partner with Anthropic to bring full read/write interoperability to Box content via Claude.\n\nNow you can have an agent not only pull up content to work with in a workflow, but also write back file updates to Box and view them directly inside of Claude, all via MCP. You can create, edit, and update contracts, presentations, strategy docs, and any other content. All while fully respecting your access controls, security, and data governance.\n\nWhen we started Box we couldn't have imagined all the ways that we'd be working with our unstructured data in the future, but it's clear that agents and people will be producing vastly more artifacts than we imagined. We're building the platform that makes it incredibly seamless and secure to work with your content from any agent.\n\nThis is what the future of headless platforms looks like.",
+      "likes": 124,
+      "comments": 11,
+      "shares": 26
+    },
+    {
+      "id": "p004",
+      "author": "James Cadwallader",
+      "text": "Excited to partner with Sequoia Capital to host a Forward Deployed Marketing Engineer Happy Hour in New York City.\n\nA Forward Deployed Marketing Engineer (FDME) embeds inside the marketing teams at some of the world's biggest brands and builds Agents in Profound that become part of how those teams work every day.\n\nCome hear from Nick Lafferty (Founding Marketing Engineer) and Anas Biad (Partner at Sequoia Capital) to see what the work looks like in practice.\n\nNew York City\nTuesday, November 17\n6:00-8:00 PM ET\n\nSpots are limited and approval is required. Sign up to join us → https://luma.com/6utau7za",
+      "likes": 83,
+      "comments": 5,
+      "shares": 4
+    },
+    {
+      "id": "p005",
+      "author": "Dylan Babbs",
+      "text": "Zero Click Singapore is now Unlocked! 400+ marketers joined us for Zero Click by Profound Singapore, and sessions are now available to watch on demand.\n\nWatch the sessions at Zero Click Singapore Unlocked → https://lnkd.in/eA347k2N",
+      "likes": 43,
+      "comments": 2,
+      "shares": 0
+    },
+    {
+      "id": "p006",
+      "author": "Alfred Wahlforss",
+      "text": "A month ago, Leo Ohaus broke his neck.\nThe following week, he was back at work at Listen Labs.\n\nHe took off late on a wave at Playa Colorados and went head first into a sandbar. He fractured his C4 vertebra, which means 8 weeks in a neck brace.\n\nEveryone would have understood if he stayed home but he wanted to come back anyway. He said it was much better than lying around at home.\n\nLeo runs enterprise sales at Listen. He’s in the middle of some of our biggest deals, leading a team of 12 AEs. When I checked in, he wanted to talk about his deals more than his neck 😅\n\nI think this story tells you everything you need to know about Leo.",
+      "likes": 234,
+      "comments": 44,
+      "shares": 0
+    },
+    {
+      "id": "p007",
+      "author": "Aaron Levie",
+      "text": "A good lesson in AI is that you need to check back in on the latest with every 3 to 6 months to try something that wasn’t possible before and see if it works again.\n\nAt no point in AI’s history is that more true than today. Just the past six months of model progress around computer and tool use, less context rot, better reasoning, multimodality, and deeper domain expertise in a number of key fields, these models are vastly more capable on what they can execute.\n\nThis is opening up a new vector of what AI systems will be able to autonomously work on. Essentially, anything with an API (and even many things without), we can anticipate that an agent will be able to control and utilize as an underlying capability to complete a process.\n\nThis means that we are no longer dependent on *just* the models generating everything from whole cloth, but instead they can fully utilize existing systems (or new ones purpose built for them) very effectively. This creates immense leverage for agents.\n\nSecurity agents can leverage existing data feeds and cyber tooling, IT agents that can execute workflows reliably across software stacks, data agents that can migrate data or processes between systems, architect and design agents can leverage CAD and design tools, and on and on. And any of today’s tools that don’t work will likely be replaced by agent-friendly or OSS tooling that does the same. \n\nWhen you combine this with the domain understanding being trained into agents, you started to get autonomous collaborators for every job function and industry. This will open up a ton of new opportunities in AI if you build with this understanding in mind.",
+      "likes": 177,
+      "comments": 72,
+      "shares": 4
+    },
+    {
+      "id": "p008",
+      "author": "James Cadwallader",
+      "text": "Profound is now available on the Amazon Web Services (AWS) Marketplace.\n\nThe agentic commerce platform shift has only accelerated in the last 12 months. Heading into 2027, more brands than ever need a platform where marketers come to do the work that helps them win in the AI era, and they need to be able to start quickly.\n\nCompanies with pre-committed 2026 spend to AWS can now use any remaining budget towards purchasing Profound. It gives brands another way to start using Profound as the platform to win in the AI era.\n\nThank you to Maddie Johnston and Sarah Mulders for working closely with the AWS Partners team for helping us get here.\n\nLearn more and see Profound on the AWS Marketplace → https://lnkd.in/ekAg2jtD",
+      "likes": 122,
+      "comments": 7,
+      "shares": 4
+    },
+    {
+      "id": "p009",
+      "author": "James Cadwallader",
+      "text": "Sessions from Zero Click by Profound Singapore are now available to watch on demand.\n\n400+ marketers joined us to hear how L'Oréal, Singtel, Standard Chartered, iQuanti, Unilever and more are approaching marketing in the AI era.\n\nWatch the sessions at Zero Click Singapore Unlocked → https://lnkd.in/eq72FxGG",
+      "likes": 107,
+      "comments": 9,
+      "shares": 1
+    },
+    {
+      "id": "p010",
+      "author": "Aaron Levie",
+      "text": "This sounds extreme and I wouldn’t have believed it even a year ago, but we’re starting to see plenty of examples of productivity gains that are an order of magnitude or two above output levels pre-AI.   \n\nWith the right harness, a deep understanding of your domain of what you want to build, likely a relatively new codebase (with some exceptions), a fluency of how to work with multiple agents at once, and a setup that makes it so you can test and deploy with limited friction, outputs on this level feel realistic in coding.    \n\nWhat’s crazy is this gap doesn’t appear to be diminishing over time. You’d think that we’d see a convergence in the lines because of AI, but it turns out the more depth you had before -and willingness now to take a different approach- gives you crazy leverage. And that is only compounding as the models can take on larger work and harder problems.  \n\nRight now this is most pronounced in software engineering for the obvious reasons. But there’s no reason we don’t start to see this in a number of other computer-use-sensitive domains like other scientific fields, AEC, finance, cyber, and more. Going to get quite wild.",
+      "likes": 334,
+      "comments": 103,
+      "shares": 18
+    },
+    {
+      "id": "p011",
+      "author": "Aaron Levie",
+      "text": "Yesterday at BoxWorks, we shared a preview of Box Architect, a breakthrough new way to autonomously drive enterprise content management and workflows. \n\nMost enterprise workflows that deal with enterprise content today can be slow, manual, and clunky. Contract management and reviews, client onboarding processes, digital asset management approvals, vendor onboarding, clinical trial workflows, and thousands of other processes that span every industry. For the past year we've been building agentic capabilities to help automate many of the steps in these processes to bring the power of AI to streamline these workflows.\n\nThe only catch has been that most companies have far more processes than people and time to help automate, or far more importantly, reimagine all this work. So we asked ourselves, what if AI didn't just play a role in the individual steps in the workflow, but instead we could use it as a partner to design or optimize the whole process? What if we could take the same frontier intelligence that AI labs are using to develop their own models and build the most advanced software in the world, and use this frontier AI to help improve our customers' workflows in Box?\n\nThis is Box Architect. With Box Architect, enterprises get the full power of frontier AI to autonomously build, test, optimize, and run their workflows and manage their content. Box Architect effectively acts as an agentic operator of Box's core content and workflow capabilities -- like Box Apps, Automate, Forms, Doc Gen, Agents, core content management, and more -- to help customers design any content workflow in Box. This could be anything from building out a contract management system to helping optimize a data extraction pipeline by delivering higher accuracy results at lower costs by running a multitude of tests for you.\n\nThink of Box Architect like having the world's smartest expert in enterprise content management, workflows, and data governance --including any industry domain-- right at your fingertips. And because frontier AI models are getting to near-superhuman levels of intelligence, they increasingly can help us reimagine workflows leveraging their depth of knowledge in legal, manufacturing, finance, healthcare, life sciences, and more. We no longer have to just apply automation to how things are already done, but we can use AI as a partner to think through the most optimal way to streamline our work.\n\nWe're incredibly excited about Box Architect, along with our extensive set of updates to our content management and workflow features Architect will build on top of. Learn more here: https://lnkd.in/gp3iQMdn",
+      "likes": 190,
+      "comments": 19,
+      "shares": 42
+    },
+    {
+      "id": "p012",
+      "author": "Ravish Agrawal",
+      "text": "The more marketing I automate, the more time I spend on the parts that need a human.\n\nI joined Nick Lafferty for The Marketing Engineer podcast recently, and this was the first time I’ve really talked about the builder side of my role at Gamma.\n\nAI search has become one of our top three acquisition channels. Behind it, we’re building a system to track performance, find opportunities, and turn those insights into content, using Claude and MCPs to connect our tools and workflows.\n\nI’m most excited about is that I can finally build the marketing stack I’ve always wanted. I’ve complained to a lot of people about how bad marketing tools are. There are so many of them, yet I still find myself working around their limitations. \n\nI now spend time reviewing a volume of work I could never have created myself. Is this useful? Does it sound like us? Do we actually have something to say, or are we just adding more AI slop to the internet?\n\nThe systems can keep producing. Deciding what deserves to go out still takes judgment, taste, and care.\n\nThanks for having me, Nick.",
+      "likes": 153,
+      "comments": 23,
+      "shares": 3
+    },
+    {
+      "id": "p013",
+      "author": "James Cadwallader",
+      "text": "Grateful to be included in the 2026 ADWEEK Innovator 50 list for a second time.\n\nThe list honors 50 leaders across brands, agencies, media and technology who are pushing the boundaries of what's possible in marketing.\n\nThank you to the team at Profound, our customers, and our partners building with us every day.",
+      "likes": 54,
+      "comments": 1,
+      "shares": 0
+    },
+    {
+      "id": "p014",
+      "author": "James Cadwallader",
+      "text": "If true, this will be great for the marketing industry. Ground truth data is a necessary step towards high fidelity attribution - we are very excited for this.\n\nHoping Google, Grok and maybe even Claude will follow suit here at some point.",
+      "likes": 41,
+      "comments": 5,
+      "shares": 2
+    },
+    {
+      "id": "p015",
+      "author": "James Cadwallader",
+      "text": "Ravish Agrawal, Head of Growth Marketing at Gamma, is one of the most AI-pilled marketers we work with.\n\nAI Search has quickly become one of Gamma's top three acquisition channels. So it's great to hear what Ravish has been building to power that growth and continue scaling the channel.\n\nLearn more in the latest episode of Profound's Marketing Engineer Podcast with Nick Lafferty.\n\nListen here → https://lnkd.in/gMS967Uu",
+      "likes": 129,
+      "comments": 11,
+      "shares": 1
+    },
+    {
+      "id": "p016",
+      "author": "James Cadwallader",
+      "text": "Foundation Marketing are true trailblazers and are fast becoming one of the best known agencies when it comes to agentic transformation. Extremely exciting to see them translate our technology into client value. Go team!",
+      "likes": 20,
+      "comments": 5,
+      "shares": 1
+    },
+    {
+      "id": "p017",
+      "author": "Alex Palmer",
+      "text": "I went to an OpenAI Codex builder day with the goal of building a GTM agent swarm last week. Very normal sales-leader behaviour.\n\nThe job I wanted help with: finding companies worth a closer look & understanding enough about them to have a useful conversation.\n\nOnce you start building, you have to explain what 'worth a closer look' actually means.\n\nA pricing page mentioning enterprise. A new hire in your target persona. A founder presenting at an event coming up. The more specific, the better.\n\nUseful things to know but each still leaves a question.\n\nFor the research workspace, we kept the observation, source & possible commercial relevance separate. You can see what was found before deciding what to do with it.\n\nSelling at Vanta, I might want to understand whether a founder is preparing for bigger customer's security requirements. A job ad alone won't answer for that. You need multiple signals, firmographic data & intent signal scoring all combined to get the right targets.\n\nThe output I want is something like: here's the change, here's the why it might matter, here's what we still need to ask.\n\nThat last bit is where the sales experience earns its keep. Knowing which question would actually change your view of the account.\n\nDon't get caught in the messy middle - keep it simple & focus on relevance + action - as perfectly illustrated by brendan's meme.\n\nFolk building AI into their GTM work: what have you had to explain to the agent that you previously just did in your head?\n\nBig thanks to Ricardo Schmidt & Regina Lin for helping me out with the building infrastructure, memory setup & more.",
+      "likes": 38,
+      "comments": 14,
+      "shares": 2
+    },
+    {
+      "id": "p018",
+      "author": "brendan short",
+      "text": "what’s your favorite gtm tech right now? \n\nbonus points if you can quantify the results you’ve gotten from using it. \n\n(pls don’t say you’re own software :))\n\ni’m working on a piece for [TheSignal.club] and i want to gather organic feedback. thank you in advance 🙏",
+      "likes": 84,
+      "comments": 180,
+      "shares": 1
+    },
+    {
+      "id": "p019",
+      "author": "The Signal",
+      "text": "Every company wants to implement AI in their GTM org. But, what does that mean practically?  \n\nAdam Schoenfeld has started and sold four companies, a VP at Drift (via acquisition) and most recently CMO at Inflection (via acquisition). Now, he's an independent analyst at AdamGTM.com. \n\nYesterday, on our live show, he shared how he would advise a CXO who is bought into the idea of using AI in the GTM org, but they don't feel like they're doing enough yet:",
+      "likes": 17,
+      "comments": 2,
+      "shares": 1
+    },
+    {
+      "id": "p020",
+      "author": "Jacob Dietle",
+      "text": "Evals evals evals \n\nGTM evals are much harder than evals for code since there's no deterministic backpressure from unit tests (way to verify) but once you get one locked in (rubric based, examples of what good looks like and why) and figure out where you need them in a given workflow it is extremely powerful. \n\nThere's two types based on feedback loop length: \n\nwhat we think good looks like right now, based on what we know right now.  Feedback is still human in the loop instant, but it is still not the full picture. \n\nThe full picture is what the market says, which takes far longer to Brendan's point. You can try to gather more intent data/feedback to accelerate but ultimately you are still bottlenecked by reality itself. \n\nI think companies are going to have to learn what evals they need and basically encode their judgment and learnings into to them to get AI that writes copy they'd actually send/ads that actually convert/whatever and it is not going to be something widely \"solvable\" you're gonna guard your evals like they guard gold in Fort Knox since that is your edge.",
+      "likes": 27,
+      "comments": 9,
+      "shares": 2
+    },
+    {
+      "id": "p021",
+      "author": "Jesse Ouellette",
+      "text": "I was feeling it after my post about Adam earlier in the week.\n\nBut I wanted to do something good with it.\n\nSo I built him a film with the content I was able to find publicly.\n\nAdam Robinson built Robly, Retention.com, RB2B, and MoltSets without a dollar of outside investment.  \n\n3 of them made it to $1m ARR.\n\nThe 4th will make it there this month.\n\nAnd he taught every single thing he learned. Out loud. In public. For free.\n\nThe film is Adam in his own words. \n\nIt uses his videos, his posts, and a letter he wrote back in 2016, which, spoiler, came true.\n\nThere's a 5-minute version and the full 30-minute cut.\n\nI also put everything he taught in one place:\n320 of his videos watched and transcribed: 127 hours, 1,337,115 words.\n508 of his posts read (154,575 words); 179 that teach are here in full\n160 of his essays read (76,019 words); 32 playbooks summarized\n83 clips in the film, with 26 people named.\n13 tributes from friends, colleagues and family\n\nHis posts and long-form playbooks\n\nEvery one comes with a summary and the key takeaways.\n\nRB2B is at ~$9.7M ARR with 3,828 paying customers, and it launched in March 2024.\n\nMoltSets launched last month and is already near $1M run rate.\n\nBootstrapped.\n\nBoth of them.\n\nThe man could build.\n\nIf you're a founder, there's years of free lessons in here.\n\nThere's nothing else. No gates. No signup forms. No ads. No affiliate links.  No way to signup for anything.\n\nEverything is in the open, the way Adam did it.\n\nGo watch it. Then go build something today.\n\nThanks to Andrew Mewborn for helping me collect some of the content and build it.\n\nhttps://lnkd.in/gDP6W4yN",
+      "likes": 895,
+      "comments": 176,
+      "shares": 44
+    },
+    {
+      "id": "p022",
+      "author": "Dylan Babbs",
+      "text": "Plenty of new ships at Profound this month! Helen Martin and Dylan Perez Neider are demoing all of it live tomorrow at 1 PM ET.\n\nA few of the things they'll walk through: updates to Agents, Projects, and Context Manager, plus our new Moz and Microsoft Teams integrations.\n\nRegister for tomorrow's demo: https://lnkd.in/eznwBb2P",
+      "likes": 63,
+      "comments": 2,
+      "shares": 0
+    },
+    {
+      "id": "p023",
+      "author": "Dylan Babbs",
+      "text": "Muse Spark is now a tracked model in Profound, alongside the Answer Engines you already track, like ChatGPT and Gemini.\n\nIt’s one of the models behind Muse, Meta's personal agent. However, tracking it is not the same as tracking Muse, and our research shows why.\n\nWhen Allison Huang gave Muse Spark a memory file like the one Muse keeps for each user, 54% of its searches included details about that person.\n\nIts shortlists got shorter too, from 6.5 products per answer to 4.5, which leaves fewer spots for any one brand.\n\nOn top of that memory, Muse browses merchant sites and searches Meta’s product catalog, which the model alone doesn’t do. That means a brand that shows up well on Muse Spark may not be the one Muse recommends to a particular shopper.\n\nThe model still shapes how Muse reasons about products. Tracking it shows what Muse Spark knows about your brand and helps catch incorrect claims before they carry into products built on it.\n\nWith Personas, you can also see how its answers change for different buyer types.\n\nNice work on the integration, Meera Parat and Federico M. !\n\nRead more here: https://lnkd.in/e9_uVupR",
+      "likes": 173,
+      "comments": 6,
+      "shares": 9
+    },
+    {
+      "id": "p024",
+      "author": "Dylan Babbs",
+      "text": "Zero Click Sydney is now Unlocked! Watch the sessions from Zero Click by Profound Sydney on demand.\n\nWatch the sessions at Zero Click Sydney Unlocked → https://lnkd.in/eA347k2N",
+      "likes": 78,
+      "comments": 4,
+      "shares": 0
+    },
+    {
+      "id": "p025",
+      "author": "Dylan Babbs",
+      "text": "Excited to announce the Profound Ads beta. Your AI Marketer that runs your organic marketing can now run your paid ads too.\n\nWe asked performance marketers what their ideal agentic ads manager looks like. Three things came up:\n\n1/ Full visibility across every channel, top to bottom of the funnel\n2/ It knows everything you know\n3/ You approve, it acts\n\nProfound Ads already connects to Google, Meta, LinkedIn, and ChatGPT, and puts paid and organic data in one place.\n\nFrom there, your AI Marketer uses your organic visibility data, buyer intent from 2B+ real AI Search conversations, and competitor ads across 8B+ impressions to surface the best paid opportunities and write the ads for them.\n\nContext Manager keeps every recommendation tied to your business, so campaigns get built the way you'd build them.\n\nThen it tracks everything from first touch to revenue and lifetime value through the Profound Pixel, HubSpot, and Salesforce.\n\nRegister your interest for the beta: https://lnkd.in/eSXfQPTb",
+      "likes": 238,
+      "comments": 13,
+      "shares": 5
+    },
+    {
+      "id": "p026",
+      "author": "Alfred Wahlforss",
+      "text": "In 2023, Listen Labs pitched in the IIEX startup competition as a team of 4.\nLast week, we came back as the biggest sponsor.\n\nOn the main stage, I hosted a fireside chat with Naomi Heckroth, who leads global consumer insights for Android at Google, about what AI means for research teams.\n\nA few things we discussed:\n\n- Naomi’s team can now say yes to research they used to turn down, like getting feedback on an ad and improving it within 2 days. The new challenge is deciding which studies aren't worth doing.\n\n- AI gives researchers time back to focus on strategy. Naomi’s team spends less time writing guides and making decks, and more time on the brief and coming up with questions that lead to new insights.\n\n- Research still needs real people. Hearing customers in their own words is what changes the minds of decision makers.\n\nThanks to Naomi, the Greenbook team behind IIEX, and everyone who joined us.",
+      "likes": 137,
+      "comments": 13,
+      "shares": 3
+    },
+    {
+      "id": "p027",
+      "author": "Aaron Levie",
+      "text": "We’re going to have 100X more agents in the enterprise working with our data and systems than even people do today. Every AI agent deployment comes down to how successfully they can get access to the critical context to make a decision, do research, or execute tasks.  \n\n90% of the data in an enterprise is unstructured data, which means this critical context is living inside of our documents, contracts, marketing assets, research materials, financial plans, design files, and more. Which means we need effective ways for agents to get access to this critical enterprise content to other work.  \n\nToday at BoxWorks we announced a new partnership with NVIDIA to deliver advanced context retrieval -combining lexical and semantic search in Box- to ensure that AI agents can find the most relevant information they’re looking for. All in a way that adheres to their enterprise security, access controls, and data governance policies, so agents only work with the data they’re allowed to.  \n\nGreat to work with NVIDIA and Jensen on this partnership. Files 🤝 GPUs.",
+      "likes": 561,
+      "comments": 83,
+      "shares": 57
+    },
+    {
+      "id": "p028",
+      "author": "James Cadwallader",
+      "text": "We're hosting the November edition of Shipped by Profound tomorrow. Helen Martin (Product Marketing) and Dylan Perez Neider (Solutions Consultant) will demo what the team shipped last month and share how customers are putting these updates to work. \n\nThey'll cover updates to Agents, Projects, and Context Manager, plus our new Moz and Microsoft Teams integrations.\n\n🗓️ Thursday, November 5 @ 1 PM ET\n\nRegister for the session → https://lnkd.in/gb9NKgnD",
+      "likes": 57,
+      "comments": 2,
+      "shares": 2
+    },
+    {
+      "id": "p029",
+      "author": "James Cadwallader",
+      "text": "Brands can now track Muse Spark in Profound .\n\nMuse Spark is one of the models behind Muse, Meta's personal agent, which passed 2.5 million downloads within a month of launch. However, tracking Muse Spark is not the same as tracking Muse.\n\nMuse keeps a shopping profile and memory for each person it shops for. It also browses merchant sites and searches Meta’s product catalog, which the model alone does not do.\n\nResearch from Allison Huang found that giving Muse Spark a shopper’s memory was enough to change which products it recommended, even when the shopper never said what they wanted.\n\nIn other words, a brand that shows up well on Muse Spark may not be the one Muse recommends to a particular shopper.\n\nThe model still shapes how Muse reasons about products. Tracking it can show brands what Muse Spark knows about them and help catch incorrect claims before they carry into products built on it.\n\nWith Personas, brands can also see how its answers change for different buyer types.\n\nJosh Blyskal and Jennifer Zou covered how agents decide what to recommend in their Zero Click London session. Watch The Future of Agentic Attention from Zero Click London → https://lnkd.in/gKw5imPY",
+      "likes": 235,
+      "comments": 19,
+      "shares": 5
+    },
+    {
+      "id": "p030",
+      "author": "James Cadwallader",
+      "text": "Sessions from Zero Click by Profound Sydney are now available to watch on demand.\n\n450+ marketers joined us at Jones Bay Wharf to hear how Atlassian, Princess Polly, Virgin Australia, ahm Health Insurance, TBWA\\Australia, Reddit, Inc. and Rippling are approaching marketing in the AI era.\n\nWatch the sessions at Zero Click Sydney Unlocked → https://lnkd.in/eq72FxGG",
+      "likes": 52,
+      "comments": 3,
+      "shares": 0
+    },
+    {
+      "id": "p031",
+      "author": "Alfred Wahlforss",
+      "text": "Listen Labs is joining Salesforce.\n\nIn January 2023, Florian and I moved into a San Francisco Hacker House. \n\nWe'd just built an app that went viral and picked up 20,000 users overnight. We had no idea who they were. So over a hackathon, we built an AI that could interview them.\n\nThat hackathon project became bigger than any of us could have imagined. \n\nIn April 2025, we launched Listen and it’s been a crazy ride ever since. Today, we work with some of the largest companies in the world, including Microsoft, Anthropic, and Sweetgreen.\n\nWhat started as an AI interviewer is now a full platform for understanding customers. Listen finds the right people, interviews them, analyzes what they say, and even simulates how they'll behave.\n\nListen’s growth quickly accelerated and while we were raising our next round, we met Marc Benioff. \n\nMarc is a hero of mine. I've taken countless ideas from Behind the Cloud and the more time we spent with him and the team, the more obvious the fit became. \n\nWith Salesforce, we can bring Listen to every company in the world, much faster.\n\nTo our customers, our mission remains the same. I stay CEO, Florian stays CTO and the same team will keep building the product you rely on, now inside Salesforce AI Labs. Thank you for believing in us early.\n\nTo our team, you joined a company almost no one had heard of and stayed late with us more nights than we can count. To our families, who watched us move across an ocean for a dream, and to the friends and investors who supported us before there was much to believe in, thank you.\n\nThese years have been the most fun years of my life, and it’s still only just the beginning for Listen.\n\nNow back to work.  🚀",
+      "likes": 4934,
+      "comments": 507,
+      "shares": 83
+    },
+    {
+      "id": "p032",
+      "author": "Winston Weinberg",
+      "text": "Today we announced Harvey II.\n\nLegal work carries history with it, and Harvey's agents now start with that history.  They inherit the full context of the matter or project, your team's knowledge, and a memory of how you work.\n\nWhat’s new. \n\nPersistent memory.   Harvey learns how the firm and each lawyer work and writes in their voice everywhere the work happens (the Harvey app, Word, Outlook). \n\nProject centric.   Harvey restructures the product around the matter / project as its core object - every thread, document, agent, permission lives inside a matter / project. \n\nSmarter agents.  Lawyers say what they need and Harvey figures out the rest (which files, sources, and agents to use), so no one attaches documents or routes tasks by hand, and agents carry the work across the matter on their own. \n\nA dedicated agents tab.  A single screen, separate from matters, where you create agents and set up automations that run on a schedule.  Admins use this tab to see every agent in the firm: what it exists to do, what data it can access, and what it has run. \n\nNew look and feel.  Every surface of Harvey has been refreshed with a more polished look that improves clarity, consistency, and overall feel. \n\nWe built Harvey II closely alongside our customers.  I'm grateful to every firm and legal team that helped shape the product, and to the Harvey team that brought it to life. \n\nhttps://lnkd.in/g-G2nywG",
+      "likes": 1508,
+      "comments": 51,
+      "shares": 141
+    },
+    {
+      "id": "p033",
+      "author": "Aaron Levie",
+      "text": "There's a huge opportunity right now in being the deployment layer for AI into the economy. The amount of work it takes to change out workflows in enterprises tends to be far greater than anyone realizes or would prefer. Clearly this is what the applied layer of AI is going to look like in the form of software and agents, but also it opens up new services firms opportunities.\n\nLegacy systems need to be moved to the cloud, data organization and access needs to be updated, software needs to be connected to agents in new ways, workflows need to be reengineered for agents, HITL needs to be figured out for the process, evals need to be generated and maintained, and the entire system needs to be continually updated as new models get released and new capabilities emerge. And the full list may even be longer.\n\nAI is not the same as just deploying software. Software you generally did the implementation of an existing, well understood category of technology, then stepped back and the customer kept running. With AI agents, you're delivering actual work augmentation to the organization, which has a completely different set of complexities associated with it. You're no longer deploying tools that the company is merely enabled by, you're deploying work output in a process. Completely different implementation and enablement process.\n\nAs a result, this is going to open up lots of new kinds of firms and plays for existing firms to diffuse AI into organizations. We're going to see approaches by industry, by size of company, and by problem inside of companies. Traditional SIs will modernize and adapt (some will clearly not adapt as well), and new entrants will also be founded in this period that take advantage of this window. Great time to be an FDE or FDE firm.",
+      "likes": 1189,
+      "comments": 260,
+      "shares": 77
+    },
+    {
+      "id": "p034",
+      "author": "Aaron Levie",
+      "text": "It’s almost incomprehensible how wide the distance is between someone who’s working at the frontier with AI and basically everyone else right now. \n\nThe crazy thing is these lines are not converging, but only growing farther apart. If the curve of AI progress had leveled off, it would certainly have given most people and companies time to catch up or implement their workflows in a standardized way. The technology would have neutralized competitive advantage because everyone would be using it the same way.\n\nBut what’s happened is the opposite. The curve of AI progress is basically going vertical right now, which means if you had codified your processes 3-6 months ago you’re likely already behind again. Now imagine most companies that kicked into gear a year ago and thought that they were done. Even further behind now.\n\nI’ve never seen a technology in my life and career that improves at this rate, which consequently means you need to upgrade your expectations at a similar rate. Our brains weren’t wired for this, and our organizational change management processes certainly weren’t either.\n\nWith any form of recursive self improvement, things just get wilder. It’s a time when you will need to be constantly reevaluating the things that didn’t work just a couple months ago to see if they now can be solved. AI native companies certainly have a strong advantage due to this right now, so now it comes down to can the bigger companies keep up. Wild times.",
+      "likes": 1126,
+      "comments": 214,
+      "shares": 103
+    },
+    {
+      "id": "p035",
+      "author": "Winston Weinberg",
+      "text": "Introducing Tenet, our first model post-trained for legal.\n\nTenet is Harvey's first major step toward two goals: building frontier legal intelligence on open-weight models, and helping firms build and own specialized models of their own.\n\nTogether with Fireworks AI, we post-trained Tenet specifically for long-horizon legal work. The model reaches frontier performance on Legal Agent Bench and generalizes to other agentic benchmarks while being extremely cost efficient. \n\nWe’re also introducing new capabilities for specialized tasks that we’re combining into a single model system:\n\nM&A Diligence (with Baseten): high-scale, long-horizon work like turning an 80M-token data room into a diligence memo.\nReview Tables (with Applied Compute): state-of-the-art, cost-effective review and extraction across 10,000+ documents.\nFirm Knowledge (with Engram): internalizes and searches a firm's knowledge via memory and structured notes.\n\nFull details on training, benchmarks, and results from Niko Grupen and Julio Pereyra below.\n\nhttps://lnkd.in/d8Z5kzW4",
+      "likes": 1240,
+      "comments": 49,
+      "shares": 102
+    },
+    {
+      "id": "p036",
+      "author": "Alfred Wahlforss",
+      "text": "We just got the listenlabs.com domain!\nIt took 2 years of getting ghosted and a wedding but in July, we finally did it.\n\nI wanted the domain from the start and I first messaged the owner in February 2024. Unsurprisingly, he said no.\n\nHe had good reasons to keep it. He’d owned the domain since the late 90s, when he ran a drum and bass and jazz improv record label called Listen Labs. He also had 20 years of email and logins tied to it.\n\nI kept trying anyway. Over the next two weeks I sent him at least 10 more texts. I offered to trade him listen-labs.com, and to write access to his old email into the contract. Bryan Schreier at Sequoia emailed him. I asked Sequoia to get Ev Williams to reach out too.\n\nHe said no again, but he was kind about it. He told me his journey with the domain wasn’t over yet.\n\nFor almost two years after that, I texted him every few months. At one point I offered to give the domain back if Listen ever shut down. Later I put equity on the table and I sent him a custom invite to our Midsummer party too. He didn’t reply.\n\nThen last year I found out he had officiated a wedding for one of my friends, Jonathan Swanson. Jonathan reintroduced us, and this time, I was no longer just a stranger chasing his domain… He finally agreed to sell!\n\nTwo years of persistence for a domain. Completely worth it.\nP.S. me getting ghosted for 18 months 👇",
+      "likes": 885,
+      "comments": 76,
+      "shares": 1
+    },
+    {
+      "id": "p037",
+      "author": "Winston Weinberg",
+      "text": "Excited to welcome Adam Sadovsky as Harvey’s Chief Research Officer.\n\nBefore Harvey, Adam co-led post-training at Microsoft AI and Google DeepMind.  As a CVP at Microsoft AI, he helped build MAI-Thinking-1, Microsoft’s reasoning model.\n\nAs part of Gemini’s leadership team he helped train Gemini 1.0 through 2.5, including fine-tuning, RL, data, and evals.  His prior work as a Distinguished Engineer at Google covered Assistant, Search Quality, and Search Infrastructure.\n\nGabe and I met Adam three years ago through one of Gabe’s cold outreaches.  When many dismissed legal AI and the application layer, he was generous with his time and quickly became a trusted advisor.\n\nWe have hoped to work with him ever since. \n\nBeyond his technical achievements, Adam is curious, humble, practical, and deeply committed to his teams.  \n\nWe couldn’t ask for a better leader to help us build frontier intelligence for the professionals and institutions we serve.",
+      "likes": 803,
+      "comments": 35,
+      "shares": 45
+    },
+    {
+      "id": "p038",
+      "author": "Alfred Wahlforss",
+      "text": "Today, we’re launching Listen Twins, 1:1 digital twins of your audience.\n\nSome decisions move too fast for a full research study, like which ad cut goes live Friday, which subject line goes out Tuesday, or whether a promo leads with free shipping or 20% off.\n\nSo the call gets made on the best evidence available, often a year-old study, one champion customer’s opinion or a Slack thread.\n\nListen Twins bring customers’ voices into those everyday decisions.\n\nA few things to know about twins:\n\n1. Each twin is modeled on one real person. We interview them in depth and build their twin from that interview. If you twin 200 CMOs, you hear from 200 different CMOs, with their own budgets, teams and priorities.\n\n2. Twins are trained on your specific use case, so product roadmap twins are different from marketing copy twins, and you can see exactly what yours were trained on.\n\n3. You get 100+ answers in seconds, each with its reasoning and a confidence score. You can ask any twin to explain itself and trace answers and justifications back to the real person behind it.\n\n4. When a twin doesn’t have enough information, it says “I don’t know” (shocking, I know)!\n\n5. Every new study, piece of context and set of customer data makes the twins more accurate.\n\nAt Listen Labs, we use them every day. Eric and Jin interviewed a group of researchers about ad copy from 10 research platforms, then twinned them.\n \nWhen we were deciding whether our billboards should lead with quality and trust or with cost and speed, 80% of the twins chose quality and trust. Jin’s team now checks with them daily.\n\nOf course, as a human insights company, we’ll keep advocating for talking to your customers when time and budget allow. Twins fill the gap for everyday decisions where they don’t.\n\nExcited to see what teams build when customer input can be part of every decision.",
+      "likes": 584,
+      "comments": 128,
+      "shares": 68
+    },
+    {
+      "id": "p039",
+      "author": "Winston Weinberg",
+      "text": "There's a lot of doom and gloom about AI right now.  \n\nWhen I think about whether an industry survives it, I ask one question: why does this industry exist in the first place, and will that reason still be here after AI?\n\nFor law, the answer is simple.  Law exists to help people agree.  \n\nEvery contract, negotiation, and dispute comes down to people with different interests finding terms they can live with.  AI will change how that work gets done, maybe dramatically. It won't change the fact that people need to agree, and I don't see that fundamental need as a society going anywhere.",
+      "likes": 653,
+      "comments": 31,
+      "shares": 68
+    },
+    {
+      "id": "p040",
+      "author": "Winston Weinberg",
+      "text": "A lot of the talk around AI and jobs is about the threat rather than the opportunity.  Richard Susskind first described the role of “legal knowledge engineer” in his thesis, and it has since evolved to encompass lawyers who help law firms and in-house teams transform how they work.\n\nThere are 7,000 open legal engineering roles on LinkedIn right now, and more than 10,000 people have enrolled in Harvey’s legal engineering certification.\n\nLegal engineers are customer zero for the Harvey product, and consistently rank as top users at the company.   Ashleigh Whittaker started as a legal engineer at Harvey, and much of our success in APAC is largely attributable to her ownership mentality, advocacy for our customers in region, and building a great team to support that growth.\n\nIn Q4, we're hiring 150+ legal engineers globally, including a Head of Legal Eng role in EMEA and a Head of In-House Legal Engineering in the US.  For lawyers looking for their next step, there’s no more interesting or impactful role in the AI space.",
+      "likes": 519,
+      "comments": 40,
+      "shares": 56
+    },
+    {
+      "id": "p041",
+      "author": "Winston Weinberg",
+      "text": "Building a firm’s ontology around how its lawyers actually work takes the kind of expertise that built Glean.  Today, Glean co-founder Piyush Prahladka, and former Apple ML leader Atish Das Sarma, and their team at Aida join Harvey.  Their arrival will significantly accelerate our ability to help firms own, organize, and optimize their data.\n\nMore here: https://lnkd.in/enCA-5KR",
+      "likes": 531,
+      "comments": 20,
+      "shares": 29
+    },
+    {
+      "id": "p042",
+      "author": "Winston Weinberg",
+      "text": "We’ve been working with the team at Kim & Chang for almost two years, and as our team starts another round of onsite work with them, I just want to share how fortunate we feel to work with such an innovative organization.  Thank you Kim & Chang Team for your trust in us, for joining us at FORUM, and for the work we’ll do together at the forefront of AI.",
+      "likes": 516,
+      "comments": 17,
+      "shares": 38
+    },
+    {
+      "id": "p043",
+      "author": "Winston Weinberg",
+      "text": "We’re collaborating with Latham & Watkins on an AI-enabled fund formation solution, shaped by the expertise of their market-leading Investment Funds Practice.\n\nTheir lawyers are working alongside our product and engineering teams across LPAs, side letters, subscription documents and comment memos.  The goal is to streamline fund documentation so lawyers can spend more time on the strategic and commercial issues that matter most to their clients.\n\nThank you to the Latham team for the expertise and time you’re putting into this.  Excited to keep building together.\n\nRead more here:  https://lnkd.in/eDUv-YhR",
+      "likes": 520,
+      "comments": 9,
+      "shares": 33
+    },
+    {
+      "id": "p044",
+      "author": "Aaron Levie",
+      "text": "What an insane day in AI. Both Anthropic and OpenAI have released updated models at the frontier. This would be big enough news, but the bigger headline for anyone building agents is that the models just became substantially cheaper, with the Opus 5.5 price cuts, and GPT-6 Sol and Luna dropping token prices by 50%.\n\nThe rate at which the cost per task (on a like-for-like basis) drops in AI is unlike any other type of technology in history. And every time the cost of AI drops, the use-cases you can deploy agents against dramatically increase. This is Jevons paradox applied to agents.\n\nThese improvements will directly lead to broader diffusion of AI in the economy as we can use agents to process all of our data, scan our code for security issues, read through all log data to make decisions, have agent swarms in workflows, and much more. The cost of tokens is directly correlated to these use-cases being opened up at scale.\n\nIt’s an incredible time to be building or deploying agents right now in the enterprise.",
+      "likes": 435,
+      "comments": 97,
+      "shares": 22
+    },
+    {
+      "id": "p045",
+      "author": "James Cadwallader",
+      "text": "Zero Click London was a movie. Thank you to everyone who came through today, it was a totally full house. Over a thousand people and an even bigger waitlist!\n\nCongrats to the team for putting together an incredible production.\n\nNext stop: Sydney 🇦🇺",
+      "likes": 452,
+      "comments": 48,
+      "shares": 11
+    },
+    {
+      "id": "p046",
+      "author": "Winston Weinberg",
+      "text": "Spent the last few days in Munich visiting with customers and speaking on a great panel hosted by Rosberg Ventures and Hengeler Mueller.\n\nHarvey already works with organizations including Deutsche Telekom, Gleiss Lutz, and Hengeler Mueller and we’re hiring in Munich to support the growing demand we’re seeing across the market.\n\nLooking forward to coming back soon.  Thank you Mihály Gündisch and the entire team for leading the way for Harvey in Germany!",
+      "likes": 462,
+      "comments": 9,
+      "shares": 4
+    },
+    {
+      "id": "p047",
+      "author": "Aaron Levie",
+      "text": "There’s a massive chasm between the power of AI models and the ultimate workflows that enterprises are trying to automate. This gap is the opportunity for the applied AI layer to fill.\n\nYou need to connect the intelligence to workflows, often reengineer processes, aggregate the right context and data, allow for the right human in the loop experiences, drive change management, do domain specific evals, manage the security and governance of the data and process, and much more.\n\nWe’re going to see this layer emerge in every vertical and horizontal category. Platforms like Cognition, Cursor, and Factory for coding; Salesforce, Sierra and Decagon for customer service; ServiceNow Console and Serval for IT automation; Harvey and Legora for legal workflows; Box for document automation; and so on. \n\nAnd ironically, even as models improve at incredible rates, this layer still must exist - and may become even more important and useful. Greater capability enables even more complex tasks to be tackled, amplifying the challenges if you don’t do this well.\n\nWas super fun chatting with Sonya Huang on all the things going into AI diffusion on Training Data podcast. Full podcast here: https://lnkd.in/gwKUkg3z",
+      "likes": 341,
+      "comments": 77,
+      "shares": 32
+    },
+    {
+      "id": "p048",
+      "author": "Aaron Levie",
+      "text": "The biggest misread of anyone predicting the end of software engineering was imagining that the world only needed a certain amount of software, and bringing automation to the field would reduce the need for labor. \n\nExactly the opposite is happening where essentially most things are actually turning into software. Because agents can use tools, work with computers, write software on the fly, and process data like humans (but far faster), we can now throw “software” at problems that never could reasonably be digitized before.\n\nWhat that leads to is the role of engineering taking on greater importance in the economy, because we can now engineer far more systems and processes than were possible before.\n\nIf you’re a bank trying to do new forms of trading, engineers are often your first bet. If you are in life sciences, you expect more and more research and lab work to be engineering centric. If you’re in manufacturing, you’re trying to automate more of the supply chain, all that is engineering. More and more work is shaped like software problems.\n\nYes we’re not going to be coding manually in the future. But almost everything will be code, which means those that understand it are in a fantastic position.",
+      "likes": 329,
+      "comments": 87,
+      "shares": 27
+    },
+    {
+      "id": "p049",
+      "author": "Aaron Levie",
+      "text": "You're going to start hearing a lot about agent swarms going forward. This was the technique recently popularized by OpenAI, when they had an estimated 10,000 concurrent AI agents work together on breakthrough math problems. \n\nHere’s why this is a going to be a very big deal in the enterprise: we can finally make compute a critical variable in a large number of important tasks in the economy which wasn’t possible before.  \n\nThere’s a large amount of work in the world that is essentially only constrained by the amount of time that we put into research, data processing, discovery work, running tests, and more. All of this work is bottlenecked by our ability to plan, execute, review, and coordinate everything happening in these workflows. Which means we basically do very little of them today relative to their economic value.   \n\nAgent swarms are the first real ability to parallelize this work in a way where - in theory - the only parameter that matters is how much compute you throw at the problem. Cyber security, life sciences or material science research, trading, QA testing, data processing, and many other fields are essentially compute constrained problems in the limit once models are good enough at these tasks.  \n\nThe breakthrough is that in a world where agents can use tools, write code, process data, have strong domain depth, and can coordinate with each other, you can begin to solve arbitrarily complex problems by setting the right goals and applying enough tokens to the problem. This changes a lot of fields as well as even the competitive dynamics in these fields.",
+      "likes": 296,
+      "comments": 132,
+      "shares": 8
+    },
+    {
+      "id": "p050",
+      "author": "Aaron Levie",
+      "text": "This is correct. The vast majority of enterprise workflows have not actually had agents applied to them in any meaningful way. The economy probably has this deployed < 1% right now.\n\nAt best you have a few automated systems in a company that do a single pass of an LLM to make a decision or provide feedback, but very little real “automation”. Some of this is a statement about the adoption rates of technology in enterprises, but the vast majority of it is really just due to the capability of AI itself.\n\nThat’s all changing. Now with computer use, long running agents, harness improvements and surrounding infrastructure, we’re finally at a point where we can start to apply agents at more complex workflows. \n\nWe will see self-improving systems that can take any particular workflow goal and improve the execution rates over a volume of instances. And with the emerging form factor of agent swarms, you can just choose to deploy any amount of compute at a problem and agents will off and do the work.\n\nThis won’t be about and users prompting agents to complete a specific task for them, but instead the organization reengineering the underlying workflows to take advantage of agents in their processes. This will have a massive impact in finance, life sciences, healthcare, and other information-heavy domains. Lots of opportunity to build and deploy these systems right now.",
+      "likes": 283,
+      "comments": 123,
+      "shares": 20
+    },
+    {
+      "id": "p051",
+      "author": "Winston Weinberg",
+      "text": "“Turning your proprietary data into sovereign intelligence” is exactly what Gabe Pereyra and I wanted to help organizations do when we started Harvey.  Seeing Jensen Huang talk about how we are bringing it to life with Trajectory using Nemotron at GTC is awesome and just the beginning of what’s possible:\n\nhttps://lnkd.in/e8cX6jhE",
+      "likes": 364,
+      "comments": 11,
+      "shares": 41
+    },
+    {
+      "id": "p052",
+      "author": "Alfred Wahlforss",
+      "text": "Come beat me at chess.\nWe're hosting a blitz tournament at our SF office on Thursday September 24th.\n\nI love chess (I’m not that great), but I’ve always played it online against strangers. Blitz in person is so much better. So we we’ve started hosting tournaments to bring people together over the board.\n\nTianming Xie won our first tournament a month ago. As a kid, he was one of the best 8-year-old chess players in the world. Garry Kasparov actually mentored him and then told him he had no talent. He still beat everyone at Listen 😅\n\nWe're doing it every quarter.\n\nNo matter what your level, if you like chess, come along: https://lnkd.in/gT8iGtbg",
+      "likes": 348,
+      "comments": 51,
+      "shares": 1
+    },
+    {
+      "id": "p053",
+      "author": "Aaron Levie",
+      "text": "This has been one of the wildest weeks on record for cybersecurity. We've had major disclosures including critical vulnerabilities in PHP, Node.js, and a major certificate authority, forcing governments, major websites, and businesses worldwide to shut down systems to prevent widespread hacking and data theft.\n\nCyber is going to be one of the most profound aspects of AI. We now have a tireless workforce that can hunt down, discover, patch, or attack any system and software ever created. We will use agents to identify the long standing risks in existing systems and infrastructure.\n\nAttackers will use agents to accelerate the discovery of gaps in environments. We will equally use agents to defend attacks and discover anomalous patterns to better protect our data, and much more.\n\nWe’re entering a new cyber regime, and we’ll probably use 100X more tokens on this loop than we’re imagining right now, because we can scan every log, look at every line of code, look through traffic, and process data at a scale that wasn’t comprehensible before.\n\nTo prepare for this new reality, more than ever, enterprises are going to care deeply about how they manage their networks, systems, software, identity, devices, and more. And the way we manage our data — how it’s governed, who has access to it, where it’s store, and more — will become especially important in this new era of cyber. \n\nAt Box, we’re incredibly focused on ensuring enterprises have the most advanced capabilities for protecting their unstructured data at scale. As more agents, people, and apps are working on this sensitive information, enterprises will need more capable solutions for preventing threats, detecting issues, locking down data, ensuring only the right people and agents have access to it, classifying data with AI, and more. This is what we’re building at Box. Stay tuned for more.",
+      "likes": 272,
+      "comments": 84,
+      "shares": 29
+    },
+    {
+      "id": "p054",
+      "author": "Aaron Levie",
+      "text": "This is one of the better litmus tests for whether you’re pushing your use of AI enough or not. \n\nUp until maybe six months ago probably the best you could do with AI was pull off something you already would produce, but just doing it a little faster. But now we’re entering a point where the output of working with AI can and should dramatically exceed what you would been able to do before, in a fraction of the time.\n\nThe product prototype should not only be fully functional and interactive, but it should probably have meaningfully better features than it would have had before. The engineering architecture should be able to deliver performance gains that you wouldn’t have been able to go after otherwise. \n\nThe research for a project should consume every single fact on the subject across every dimension of analysis possible. The business process you implement with AI should operate entirely differently and learn from all its past failures in a way no human could. \n\nWe’re unquestionably entering a period where AI will be smarter than us on most axes. Perhaps not on every dimension that matters (intelligence is still very jagged), but at least on enough dimensions that when we combine it with what we’re good at, you get qualitatively different outcomes.\n\nSo the simple test is: if you could have done what you’re doing before AI, you’re likely not pushing it enough.",
+      "likes": 233,
+      "comments": 120,
+      "shares": 14
+    },
+    {
+      "id": "p055",
+      "author": "Alfred Wahlforss",
+      "text": "Everyone at Listen Labs is an engineer now. \nLast month, we had our offsite in Hawaii, and my favorite part was the hackathon. \n\nWe split our 100-person team into 20 teams. Some teams were stacked with engineers. One team was 5 sales people. It didn't matter. With Claude Code, everyone had to build a working tool by the end of the week.\n\nSome of what people built is already live at Listen:\n\n- Hugo and Krish connected a 3D printer to our CRM. When a rep closes a deal, it prints a badge of that customer’s logo for them.\n- Chloe built a customer dashboard that gives the sales team a single view of account health and usage.\n- Maddie built a living company archive, a timeline of Listen Labs from our founding through every funding round. New hires use it to onboard and learn the company’s history.\n- Samuel built an AI agent that tracks customer news and shares milestone alerts with deal owners.\n\nProud of Team Listen Labs. Lots more will be in the product soon.",
+      "likes": 335,
+      "comments": 13,
+      "shares": 2
+    },
+    {
+      "id": "p056",
+      "author": "Aaron Levie",
+      "text": "Moving from chatting back and forth with agents, to having agents that you spin up in the background to do useful work for you is probably on the order of 100X or 1000X more token consumption than what we’re seeing today. \n\nMost work right now is essentially rate limited by our ability to process and work with information. Moving data between systems. Reviewing a document. Looking through code for security issues. Processing log data to look for even patterns. Looking up information about a prospective client. Almost all of knowledge work is constrained by these steps, and AI has become a huge unlock to that. \n\nSo our first step was to use AI to do these individual tasks much faster for us. That was the chatbot phenomenon that we have been experiencing for the past 3+ years. But we can still then only augment the work that we remain in the loop for, and we’re highly limited by our ability to parallelize this work by our own bandwidth and context.\n\nBut where we’re going is quite different. As AI models continue to improve at incredible rates, we can hand off more and more work to the agent. First it’s letting the agent run with a harder problem. Then it’s giving a few agents multiple parts of a task at once. But we’re not far off from being able to throw an arbitrary number of agents at a problem and just say “come back when you’ve accomplished this goal”. \n\nNow imagine that agent swarm for any problem we can think of. Protecting our codebases, data, and systems. QAing every change we make and make sure all our infrastructure is robust and does what it should. Looking through every document for potential risks. Auditing this company with vastly more data reviewed. And on and on. Most of this isn’t even replacing existing work we do, it’s all net new. \n\nThese agents will get deployed as swarms by people, by workflows, by triggers, and by other agents. And none of this would be possible if the models weren’t getting better, and if the cost of AI didn’t make it affordable. Both of those trends though are playing out. Now the next frontier is just having enough compute. But this is where it’s heading.",
+      "likes": 244,
+      "comments": 70,
+      "shares": 14
+    },
+    {
+      "id": "p057",
+      "author": "Aaron Levie",
+      "text": "Gemini 4 Argon is now out! At Box, we've been testing Gemini 4 Argon on our Box AI Complex Work eval for the past week. It's a huge upgrade over Gemini 3.1 Pro, jumping by 14 percentage points across all our tests, and firmly at the frontier.   \n\nIn our evaluation, we give the Box Agent (using Gemini 4 Argon) a variety of complex enterprise tasks involving enterprise documents in a range of industries. These tasks approximate the kind of hard, time-consuming work that knowledge workers do every day with their enterprise content. Gemini 4 is a huge leap on effectively every dimension of this work.  \n\nGemini 4 is far more capable on math, logic, analytics, and deep knowledge of a variety of business domains. It also works far harder to complete tasks fully without stopping short of the desired result. This is incredibly important for complex enterprise workflows that depend on robust task execution.  \n\nHere are some example wins that we saw to put the improvements in perspective:  \n\n* Financial services (+18 points): a funding-gap analysis for a family-owned company, where the brief spelled out every step of the projected statements, down to the interest on the bank loan and the overdraft for each year. Gemini 4 Argon built them exactly as specified, every line broken out and carried through to the funding gap. Gemini 3.1 Pro folded the interest into a single figure.  \n\n* Healthcare (+25 points): an intensive care management plan where both models spotted a dangerous potassium level and a drug interaction. Only Gemini 4 Argon went back and pulled the offending drugs from the final regimen, so its plan actually matched its own diagnosis.  \n\n* Technology (+37 points): a product performance review deciding which of two regional markets should have its cloud infrastructure optimized first. Gemini 4 Argon pulled the right month's user, retention and per-user figures for both regions and correctly flagged North America. Gemini 3.1 Pro often pulled the wrong rows, at one point reporting retention above 100%, and pointed the effort at the wrong region.  \n\n* Energy (+16 points): an energy consumption report across two facilities that had to flag any gaps in the meter data. Gemini 4 Argon consistently caught that the data center's smart meter log stops in November. Gemini 3.1 Pro often missed it, at times declaring the logs complete.  \n\n* Consumer products (+33 points): a product launch evaluation deciding which production expansion to fund. Gemini 4 Argon saw that existing inventory could bridge an early capacity gap, which made the smaller expansion viable with an earlier launch and a faster break-even. Gemini 3.1 Pro defaulted to the larger expansion and the later timeline.  \n\nGemini 4 Argon will be available in the Box AI Studio shortly for anyone to build custom Box Agents with. You can learn more here: https://lnkd.in/gAHm6-ac",
+      "likes": 200,
+      "comments": 51,
+      "shares": 15
+    }
+  ]
+}

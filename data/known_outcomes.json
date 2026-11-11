@@ -1,0 +1,54 @@
+{
+  "note": "7 of the 10 drafts were published. This is how each one did. The other 3 were never published.",
+  "outcomes": [
+    {
+      "draft": "01.md",
+      "author": "Box",
+      "likes": 185,
+      "comments": 12,
+      "shares": 88
+    },
+    {
+      "draft": "03.md",
+      "author": "Annabel Gray",
+      "likes": 30,
+      "comments": 7,
+      "shares": 2
+    },
+    {
+      "draft": "05.md",
+      "author": "Aaron Levie",
+      "likes": 318,
+      "comments": 99,
+      "shares": 23
+    },
+    {
+      "draft": "06.md",
+      "author": "Dylan Babbs",
+      "likes": 61,
+      "comments": 4,
+      "shares": 0
+    },
+    {
+      "draft": "08.md",
+      "author": "Winston Weinberg",
+      "likes": 528,
+      "comments": 8,
+      "shares": 58
+    },
+    {
+      "draft": "09.md",
+      "author": "brendan short",
+      "likes": 106,
+      "comments": 77,
+      "shares": 1
+    },
+    {
+      "draft": "10.md",
+      "author": "James Cadwallader",
+      "likes": 1028,
+      "comments": 147,
+      "shares": 78
+    }
+  ]
+}
