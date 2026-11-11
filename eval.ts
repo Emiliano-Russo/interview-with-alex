@@ -1,4 +1,3 @@
-import "dotenv/config";
 import { join } from "node:path";
 import { loadOutcomes, loadPosts } from "./data.js";
 import { loadDraft } from "./drafts.js";

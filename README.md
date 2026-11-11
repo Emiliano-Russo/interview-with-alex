@@ -3,10 +3,16 @@
 Predicts how a LinkedIn draft will perform, using only the historical posts in
 `data/posts.json`, and explains every prediction with comparable past posts.
 
+**Validated on 7 held-out drafts:** the author baseline is the most defensible
+estimate (~2× typical error); the similar-post adjustment did not improve on it.
+
 The dataset has engagement counts (likes, comments, shares) but no follower,
 impression or publish-date data. The whole design follows from that limitation:
 raw engagement mostly measures audience size, so predictions are anchored on
 each author's own typical engagement.
+
+The exercise data in `data/` includes real LinkedIn posts from founders and
+operators on Flywheel's inspiration watchlist, as documented in `data/posts.json`.
 
 ## Setup
 
@@ -51,6 +57,10 @@ post body.
   "confidence": { "level": "low", "reasons": ["..."] }
 }
 ```
+
+This example is a miss: draft 03 received 39 total engagements, against a
+prediction of 435. The `low` confidence flag highlights the lack of author
+history; it is a qualitative warning, not a calibrated probability of accuracy.
 
 | Field | Meaning |
 |---|---|
@@ -113,7 +123,8 @@ inspect.ts      `npm run inspect` entry point (dataset exploration)
   every similarity score can be inspected.
 - **No fitted or hand-picked feature weights.** Likes, comments and shares are
   summed equally, and the only weighting is by similarity. Any learned weight
-  would need more data than we have to justify it.
+  would need more data than we have to justify it. The fixed modelling parameters
+  are listed under Known limitations.
 - **Observed performance kept separate from content features.** The baseline
   layer (`performance.ts`) never looks at text; text only enters through
   retrieval.
@@ -159,12 +170,21 @@ outcomes.
 - **Uneven author coverage.** Aaron Levie has 16 of the 57 posts and writes
   broadly about AI, so he dominates similar-post results for other authors.
 - **Bag-of-words similarity.** TF-IDF matches shared vocabulary ("agents",
-  "enterprise"), not meaning, tone or format. Typical similarities are only
-  0.13–0.35.
+  "enterprise"), not meaning, tone or format. Most similarities fall between
+  0.13 and 0.35, though the closest matches for drafts 02 and 10 reach 0.56 and
+  0.93 respectively.
 - **Equal engagement weights.** A share counts the same as a like, so likes
   drive most of the score.
-- **Fixed parameters.** The 3-post cutoff and the 5 similar posts are reasoned
-  defaults, not tuned. Tuning should use leave-one-out on historical posts,
-  never the held-out drafts.
-- **Unused dependency.** `openai` was installed during setup but is not used;
-  no API calls are made.
+- **Fixed parameters.** The 3-post cutoff, the 5 similar posts and the 25th/75th
+  percentile choices for performance bands are reasoned defaults, not tuned.
+  Tuning should use leave-one-out on historical posts, never the held-out drafts.
+
+## Next steps
+
+- Tune cutoffs using leave-one-out validation on historical posts, recomputing
+  baselines and the similarity index without each held-out post. Keep the
+  published drafts out of tuning.
+- Collect follower and impression data to distinguish audience size and reach
+  from content performance.
+- Test new content features against the author baseline before relying on them
+  for predictions, and confirm any gains on newly collected held-out data.
